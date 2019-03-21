@@ -4,7 +4,7 @@ def parrot
   return "Squawk!"
 end
 
-def parrot(phrase)
+def parrot(phrase = "parrot")
   puts "Pretty bird!"
   return "Pretty bird!"
 end
