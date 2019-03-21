@@ -1,4 +1,4 @@
-def parrot(a, b, *p)
+def parrot(*p)
   "Squawk!"
   puts "Squawk!"
   "Squawk!"
