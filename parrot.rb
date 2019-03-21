@@ -1,6 +1,6 @@
 def parrot(*p)
   "Squawk!"
-  puts "Pretty bird!"
+  puts "Squawk!"
   "Squawk!"
   "Pretty bird!"
   return "Squawk!"
